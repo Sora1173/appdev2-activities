@@ -1,0 +1,34 @@
+Case Study #1
+
+As an experienced professional in the software industry, you are currently employed at a company 
+that has developed its own software solution, integrating various third-party software components. 
+Recently, your team encountered a significant challenge with one of your third-party software providers. 
+The provider notified you that they would cease support for your current implementation and required you 
+to upgrade your codebase to align with their new implementation standards.
+
+This unexpected development prompted your team to reflect on your processes and consider preventive measures 
+to mitigate similar challenges in the future. While this issue primarily concerns the third-party software provider, 
+it raises questions about your approach to software integration and dependency management.
+
+For this activity, simply choose one question you wish to answer.
+What initial steps could your team have taken to anticipate potential changes or discontinuation of support from third-party software providers?
+How can you improve your communication and relationship with third-party software providers to stay informed about upcoming changes or updates?
+In what ways can you enhance your software architecture and design to minimize dependencies on external components and facilitate easier migration when necessary?
+What strategies can you implement to ensure timely updates and maintenance of your software to adapt to changes in third-party software requirements?
+Reflecting on your experience, what lessons have you learned, and what actionable steps can you take to prevent similar issues in the future?
+
+Question 1 : In what ways can you enhance your software architecture and design 
+to minimize dependencies on external components and facilitate easier migration when necessary?
+
+One of the solutions that I can think of is to create fallback plan so that we I can
+handle different cases where 3rd party services become unavailable. This will enable us
+to switch easily to different or alternative providers.
+
+Another thing that I can do is use version control. With this, we can maintain different versions
+and and create backups in case of 3rd party dependency problems.
+
+The use of 3rd party software providers can be minimized but there are times that
+we have to rely to such dependencies. We can also improve our system architecture by
+creating layers of abstraction, we can create functions taht would isolate the processes
+that involve the use of 3rd party providers. with this, we only need to update the specific function
+and not the whole codebase.
