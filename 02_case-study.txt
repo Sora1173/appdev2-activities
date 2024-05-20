@@ -1,0 +1,9 @@
+Looking back, the project could have been managed better in several ways. 
+First, we should have used a stronger project management method with clear goals 
+and regular progress checks to keep tasks on schedule. Using agile methods 
+like Scrum or Kanban would have helped us review and adjust our work more often, 
+making it easier to spot and fix delays early.
+Setting aside specific time for testing in the project plan, instead of leaving it all until the end, 
+would have prevented the current rush and made sure the product was more stable.
+Finally, improving communication among team members could have revealed problems earlier,
+allowing us to solve them quickly and adjust our plans as needed.
